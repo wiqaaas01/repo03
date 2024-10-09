@@ -1,1 +1,2 @@
-# teammate made change
+# teammate made - deleted something
+# updated teammate
